@@ -1,0 +1,117 @@
+*{margin: 0px;}
+.sombrero{
+    background-color: aqua;
+    width: 100px;
+    height: 100px;
+}
+.sombrero1
+{
+    background-color: purple;
+    width: 250px;
+    height: 150px;
+    position: relative;
+    top: 26px;
+    left: 720px;
+}
+.sombrero2{
+    background-color: purple;
+    width: 550px;
+    height: 85px;
+    position: relative;
+    top: 7px;
+    left: 570px;
+    border-radius: 100%;
+}
+.cara{
+    background-color: red;
+    width: 500px;
+    height: 500px;
+    position: relative;
+    top: 130px;
+    left: 590px;
+    border-radius: 50%;
+}
+.ojo1{
+    background-color: yellow;
+    height: 120px;
+    width: 120px;
+    position: relative;
+    top: 120px;
+    left: 90px;
+    border-radius: 50%;
+}
+.ojo2{
+    background-color: yellow;
+    height: 120px;
+    width: 120px;
+    position: relative;
+    top: 0px;
+    left: 280px;
+    border-radius: 50%;
+}
+.ojito1{
+    background-color: black;
+    height: 50px;
+    width: 50px;
+    position: relative;
+    top: 35px;
+    left: 35px;
+    border-radius: 50%;
+}
+.ojito2{
+    background-color: black;
+    height: 50px;
+    width: 50px;
+    position: relative;
+    top: 35px;
+    left: 35px;
+    border-radius: 50%;
+}
+.boca{
+    background-color: greenyellow;
+    width: 350px;
+    height: 85px;
+    position: relative;
+    top: -50px;
+    left: 670px;
+    border-radius: 100%;
+}
+.dientes{
+    background-color: black;
+    width: 170px;
+    height: 45px;
+    position: relative;
+    top: 20px;
+    left: 90px;
+    border-radius: 100%;
+}
+.corbata{
+
+}
+.uno{
+    background-color: green;
+    height: 120px;
+    width: 120px;
+    position: relative;
+    top: 0px;
+    left: 777px;
+    border-radius: 50%;
+}
+.dos{
+    background-color: green;
+    width: 170px;
+    height: 70px;
+    position: relative;
+    top: -80px;
+    left: 680px;
+    border-radius: 100%;
+}
+.tres{
+    background-color: green;
+    width: 170px;
+    height: 70px;
+    position: relative;
+    top: 0px;
+    left: 150px;
+    border-radius: 100%;
+}
